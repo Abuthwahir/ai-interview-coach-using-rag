@@ -1,0 +1,9 @@
+Senior Python Developer - TechCorp
+
+Requirements:
+- 5+ years Python
+- Async programming (asyncio)
+- FastAPI / Django
+- Kafka / RabbitMQ
+- PostgreSQL, Redis
+- Docker, Kubernetes
